@@ -15,7 +15,7 @@ headlines, plus a ticker of three more stories:
 - **Iran targets bases in Kuwait and Bahrain** — the US–Iran exchange of
   fire widens as Iran strikes at US bases across the Gulf.
 - **Democrats nominate Hakeem Jeffries for Speaker** — the first
-  African-American nominated to lead the US House.
+  African-American nominated to lead the US House of Representatives.
 - **Grand Theft Auto VI launches worldwide** — gamers enter Vice City after
   a 13-year wait.
 - Ticker: the EU proposes a €45 billion Ukraine loan, Cyclone Akvan nears
